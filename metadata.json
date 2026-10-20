@@ -1,0 +1,8 @@
+{
+  "name": "PoseFit Arena — AI Fitness Game",
+  "description": "Real-time webcam AI fitness game tracking body movements, counting reps, multipliers, and streak bonuses using MoveNet.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
